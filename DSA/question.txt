@@ -1,0 +1,4 @@
+missing number
+valid palimdrom
+find gcd of two number
+merge sorted array
