@@ -2,3 +2,5 @@ missing number
 valid palimdrom
 find gcd of two number
 merge sorted array
+rotate array
+squares of a sorted array
