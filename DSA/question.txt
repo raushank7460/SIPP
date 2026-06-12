@@ -4,3 +4,6 @@ find gcd of two number
 merge sorted array
 rotate array
 squares of a sorted array
+# package hunter test
+find privot index in array
+two ones congugative 
